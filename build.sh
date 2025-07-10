@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#
 #
 # build.sh - Automic kernel building script for Rosemary Kernel
 #
